@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toan (Peace)</h1>
-<h3 align="center">Software Engineering student at FPT University Da Nang | Passionate Fullstack Developer (Frontend & Backend)</h3>
+<h3 align="center">Software Engineering student at FPT University Da Nang | Passionate Fullstack Developer</h3>
 
 ---
 
