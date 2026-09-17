@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering student at FPT University Da Nang | Passionate Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<img width="320" height="221" alt="Image" src="https://github.com/user-attachments/assets/09377013-719b-45e2-bee3-44b40c18c0c3" />
 </p>
 
 ### ⚡ Fun Fact
@@ -53,7 +53,7 @@
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most-commit-language" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=toan215&theme=dark&hide_border=true" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com/?user=toan215&theme=dark&hide_border=true" alt="streak-stats" />
 </p>
 
 ---
@@ -61,10 +61,10 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="mailto:toantruongcong2005bee@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/toantruongcong2005bee-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.facebook.com/toan.congtoan.14" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    <img src="https://img.shields.io/badge/Congtoan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
 
