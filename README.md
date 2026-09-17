@@ -51,31 +51,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toan215&show_icons=true&theme=dark" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan215&layout=compact&theme=dark" alt="most-commit-language" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=toan215&theme=dark&hide_border=true" alt="streak-stats" />
+  <img src="./github-metrics-languages.svg" alt="Most Used Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:toantruongcong2005bee@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/toantruongcong2005bee-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.facebook.com/toan.congtoan.14" target="_blank">
-    <img src="https://img.shields.io/badge/Congtoan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-  </a>
-</p>
+<div align="center">
 
-<p align="left">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toantruongcong2005bee@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/toan.congtoan.14)
+
+</div>
+
+<p align="center">
   <img src="https://count.getloli.com/@toan215?name=toan215&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor-counter" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=toan215&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
 </p>
 
