@@ -6,11 +6,13 @@
 </p>
 
 ### ⚡ Fun Fact
+
 - I love **traditional Japanese culture 🇯🇵**
 
 ---
 
 ### 💻 Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
@@ -22,6 +24,7 @@
 </p>
 
 ### 🛠️ Tools & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -34,6 +37,7 @@
 </p>
 
 ### ☁️ Platform
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -45,12 +49,10 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="profile-details" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most-commit-language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toan215&show_icons=true&theme=dark" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan215&layout=compact&theme=dark" alt="most-commit-language" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=toan215&theme=dark&hide_border=true" alt="streak-stats" />
@@ -59,6 +61,7 @@
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="mailto:toantruongcong2005bee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/toantruongcong2005bee-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
