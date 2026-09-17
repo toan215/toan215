@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Express.js**
+- **Flutter & Firebase**
 
 ### 👨‍💻 Portfolio
 - All of my projects are available at: **https://peace.io.vn/**
